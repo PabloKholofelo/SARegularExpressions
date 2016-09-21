@@ -1,0 +1,5 @@
+function companyRegistration() {
+//YYYY/NNNNNNNN/NN SOUTH AFRICAN COMPANY REGISTRATION NUMBER
+
+
+}
